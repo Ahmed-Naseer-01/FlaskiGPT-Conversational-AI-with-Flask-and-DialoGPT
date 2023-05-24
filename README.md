@@ -11,7 +11,7 @@
 
 ## Getting Started
 1. **Clone the Repository:** Begin by cloning this repository to your local machine using the following command:
-git clone  https://github.com/codeblooded01/flask-dialogpt-chatbot.git
+git clone git@github.com:codeblooded01/FlaskiGPT-Conversational-AI-with-Flask-and-DialoGPT.git
 
 
 
