@@ -47,6 +47,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 We would like to express our gratitude to the developers of Microsoft DialoGPT, Flask, HTML, CSS, JavaScript, and jQuery for their remarkable tools and frameworks that made this project possible.
 
 ## Contact
-If you have any questions, suggestions, or feedback, please feel free to reach out to us at [codeeblooded69@gmail.com](mailto:codeeblooded69@gmail.com)
+If you have any questions, suggestions, or feedback, please feel free to reach out to us at [codeblooded69@gmail.com](mailto:codeeblooded69@gmail.com)
 
 Happy chatting with the Flask Chatbot Application! 🤖💬
